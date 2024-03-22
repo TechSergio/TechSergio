@@ -21,6 +21,10 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechSergio&layout=compact&theme=dark)
+## Clientes que confiaron en mi 💌:
+<img src="https://d3v0px0pttie1i.cloudfront.net/uploads/user/logo/31088104/30a4e353.jpg" height=50/>
+<img src="./olga.png" height=50 />
+
 ## Donde me capacito:
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" height=30 />
 <img src="./badge-DH.png" height=30 />
