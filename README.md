@@ -22,7 +22,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechSergio&layout=compact&theme=dark)
 ## Clientes que confiaron en mi 💌:
-<a href="https://compinches.uy" height="150" style="padding-right:10" ><img src="https://d3v0px0pttie1i.cloudfront.net/uploads/user/logo/31088104/30a4e353.jpg" height=70/></a>
+<a href="https://compinches.uy" height="150" style="padding-right:10px" ><img src="https://d3v0px0pttie1i.cloudfront.net/uploads/user/logo/31088104/30a4e353.jpg" height=70/></a>
 <a href="https://olga-web.vercel.app/"><img src="./olga.png" height=70 /></a>
 
 ## Donde me capacito:
